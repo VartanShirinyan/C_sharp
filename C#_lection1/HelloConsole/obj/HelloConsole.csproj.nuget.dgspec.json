@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\02var\\Desktop\\C#\\C#_lection1\\HelloConsole\\HelloConsole.csproj": {}
+    "C:\\Users\\Vartan Shirinyan\\GeekBrains\\C_sharp\\C_sharp\\C#_lection1\\HelloConsole\\HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\02var\\Desktop\\C#\\C#_lection1\\HelloConsole\\HelloConsole.csproj": {
+    "C:\\Users\\Vartan Shirinyan\\GeekBrains\\C_sharp\\C_sharp\\C#_lection1\\HelloConsole\\HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\02var\\Desktop\\C#\\C#_lection1\\HelloConsole\\HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Vartan Shirinyan\\GeekBrains\\C_sharp\\C_sharp\\C#_lection1\\HelloConsole\\HelloConsole.csproj",
         "projectName": "HelloConsole",
-        "projectPath": "C:\\Users\\02var\\Desktop\\C#\\C#_lection1\\HelloConsole\\HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\02var\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\02var\\Desktop\\C#\\C#_lection1\\HelloConsole\\obj\\",
+        "projectPath": "C:\\Users\\Vartan Shirinyan\\GeekBrains\\C_sharp\\C_sharp\\C#_lection1\\HelloConsole\\HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\Vartan Shirinyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vartan Shirinyan\\GeekBrains\\C_sharp\\C_sharp\\C#_lection1\\HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\02var\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Vartan Shirinyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

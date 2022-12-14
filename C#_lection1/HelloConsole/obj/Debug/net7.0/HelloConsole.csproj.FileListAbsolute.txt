@@ -13,3 +13,18 @@ C:\Users\02var\Desktop\C#\C#_lection1\HelloConsole\obj\Debug\net7.0\refint\Hello
 C:\Users\02var\Desktop\C#\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.pdb
 C:\Users\02var\Desktop\C#\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.genruntimeconfig.cache
 C:\Users\02var\Desktop\C#\C#_lection1\HelloConsole\obj\Debug\net7.0\ref\HelloConsole.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\bin\Debug\net7.0\HelloConsole.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\bin\Debug\net7.0\HelloConsole.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\bin\Debug\net7.0\HelloConsole.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\bin\Debug\net7.0\HelloConsole.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\bin\Debug\net7.0\HelloConsole.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\refint\HelloConsole.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\HelloConsole.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\HelloConsole\obj\Debug\net7.0\ref\HelloConsole.dll

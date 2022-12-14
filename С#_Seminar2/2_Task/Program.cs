@@ -3,7 +3,7 @@
 // 782 -> 72
 // 918 -> 98
 
-int numA = new Random().Next(100, 999);
+int numA = new Random().Next(100, 1000);
 Console.WriteLine($"Сгенерировано случайное трехзначное число {numA}");
 int d = numA % 10;
 int n = numA / 100;
