@@ -15,5 +15,5 @@ if (numA % numB == 0)
 }
 else
 {
-    Console.WriteLine($"Число {numA} не кратно {numB}, деление от остатка {d}");
+    Console.WriteLine($"Число {numA} не кратно {numB},остатк от деления {d}");
 }
