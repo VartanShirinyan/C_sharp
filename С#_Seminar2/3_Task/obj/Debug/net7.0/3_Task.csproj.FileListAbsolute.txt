@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\bin\Debug\net7.0\3_Task.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\bin\Debug\net7.0\3_Task.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\bin\Debug\net7.0\3_Task.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\bin\Debug\net7.0\3_Task.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\bin\Debug\net7.0\3_Task.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\refint\3_Task.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\3_Task.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\3_Task\obj\Debug\net7.0\ref\3_Task.dll

@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\bin\Debug\net7.0\C#_Lection4.exe
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\bin\Debug\net7.0\C#_Lection4.deps.json
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\bin\Debug\net7.0\C#_Lection4.runtimeconfig.json
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\bin\Debug\net7.0\C#_Lection4.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\bin\Debug\net7.0\C#_Lection4.pdb
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\refint\C#_Lection4.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.pdb
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\C#_Lection4.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection4\obj\Debug\net7.0\ref\C#_Lection4.dll

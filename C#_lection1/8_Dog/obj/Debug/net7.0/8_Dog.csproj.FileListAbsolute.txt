@@ -1,0 +1,5 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\8_Dog\obj\Debug\net7.0\8_Dog.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\8_Dog\obj\Debug\net7.0\8_Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\8_Dog\obj\Debug\net7.0\8_Dog.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\8_Dog\obj\Debug\net7.0\8_Dog.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\8_Dog\obj\Debug\net7.0\8_Dog.csproj.CoreCompileInputs.cache

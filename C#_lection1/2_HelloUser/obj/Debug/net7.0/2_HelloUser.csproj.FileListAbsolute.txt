@@ -1,0 +1,30 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\refint\2_HelloUser.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\ref\2_HelloUser.dll
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.exe
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.deps.json
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.runtimeconfig.json
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.dll
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\bin\Debug\net7.0\2_HelloUser.pdb
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.AssemblyInfoInputs.cache
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.AssemblyInfo.cs
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.sourcelink.json
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.dll
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\refint\2_HelloUser.dll
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.pdb
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\2_HelloUser.genruntimeconfig.cache
+C:\Users\VARTAN\OneDrive\GeekBrains\C_sharp\C_sharp\C#_lection1\2_HelloUser\obj\Debug\net7.0\ref\2_HelloUser.dll

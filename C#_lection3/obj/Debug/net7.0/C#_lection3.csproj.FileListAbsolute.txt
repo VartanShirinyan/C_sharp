@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\bin\Debug\net7.0\C#_lection3.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\bin\Debug\net7.0\C#_lection3.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\bin\Debug\net7.0\C#_lection3.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\bin\Debug\net7.0\C#_lection3.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\bin\Debug\net7.0\C#_lection3.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\refint\C#_lection3.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\C#_lection3.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection3\obj\Debug\net7.0\ref\C#_lection3.dll

@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\bin\Debug\net7.0\4_ArrayLibrary.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\bin\Debug\net7.0\4_ArrayLibrary.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\bin\Debug\net7.0\4_ArrayLibrary.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\bin\Debug\net7.0\4_ArrayLibrary.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\bin\Debug\net7.0\4_ArrayLibrary.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\refint\4_ArrayLibrary.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\4_ArrayLibrary.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\4_ArrayLibrary\obj\Debug\net7.0\ref\4_ArrayLibrary.dll

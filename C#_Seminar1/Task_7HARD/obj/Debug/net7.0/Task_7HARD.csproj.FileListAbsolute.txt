@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\bin\Debug\net7.0\Task_7HARD.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\bin\Debug\net7.0\Task_7HARD.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\bin\Debug\net7.0\Task_7HARD.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\bin\Debug\net7.0\Task_7HARD.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\bin\Debug\net7.0\Task_7HARD.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\refint\Task_7HARD.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\Task_7HARD.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Task_7HARD\obj\Debug\net7.0\ref\Task_7HARD.dll

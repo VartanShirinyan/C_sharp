@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\bin\Debug\net7.0\C#_Lection5.exe
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\bin\Debug\net7.0\C#_Lection5.deps.json
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\bin\Debug\net7.0\C#_Lection5.runtimeconfig.json
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\bin\Debug\net7.0\C#_Lection5.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\bin\Debug\net7.0\C#_Lection5.pdb
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\refint\C#_Lection5.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.pdb
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\C#_Lection5.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Lection5\obj\Debug\net7.0\ref\C#_Lection5.dll

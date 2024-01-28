@@ -1,0 +1,5 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\Task_4\obj\Debug\net7.0\Task_4.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\Task_4\obj\Debug\net7.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\Task_4\obj\Debug\net7.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\Task_4\obj\Debug\net7.0\Task_4.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\С#_Seminar2\Task_4\obj\Debug\net7.0\Task_4.csproj.CoreCompileInputs.cache

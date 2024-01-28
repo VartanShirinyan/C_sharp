@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PeuxilBDG0h1VIL1eUk0a3++ebggLC5j9nq1gTKcxgU+AAGWIKS8o2BNlsEE8l2UyJ8dCM8HtmGlRWpa8e3ELg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VARTAN\\OneDrive\\GeekBrains\\C_sharp\\C_sharp\\С#_Seminar2\\Task_6\\Task_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VARTAN\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\VARTAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\VARTAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\VARTAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

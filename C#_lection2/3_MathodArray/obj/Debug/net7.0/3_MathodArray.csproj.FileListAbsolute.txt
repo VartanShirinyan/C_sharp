@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\bin\Debug\net7.0\3_MathodArray.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\bin\Debug\net7.0\3_MathodArray.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\bin\Debug\net7.0\3_MathodArray.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\bin\Debug\net7.0\3_MathodArray.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\bin\Debug\net7.0\3_MathodArray.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\refint\3_MathodArray.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\3_MathodArray.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\3_MathodArray\obj\Debug\net7.0\ref\3_MathodArray.dll

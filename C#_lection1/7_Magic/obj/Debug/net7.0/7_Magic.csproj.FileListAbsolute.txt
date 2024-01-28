@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\bin\Debug\net7.0\7_Magic.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\bin\Debug\net7.0\7_Magic.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\bin\Debug\net7.0\7_Magic.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\bin\Debug\net7.0\7_Magic.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\bin\Debug\net7.0\7_Magic.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\refint\7_Magic.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\7_Magic.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\7_Magic\obj\Debug\net7.0\ref\7_Magic.dll

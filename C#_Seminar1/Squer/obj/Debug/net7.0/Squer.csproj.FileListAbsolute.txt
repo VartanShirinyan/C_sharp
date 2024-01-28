@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\bin\Debug\net7.0\Squer.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\bin\Debug\net7.0\Squer.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\bin\Debug\net7.0\Squer.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\bin\Debug\net7.0\Squer.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\bin\Debug\net7.0\Squer.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\refint\Squer.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\Squer.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_Seminar1\Squer\obj\Debug\net7.0\ref\Squer.dll

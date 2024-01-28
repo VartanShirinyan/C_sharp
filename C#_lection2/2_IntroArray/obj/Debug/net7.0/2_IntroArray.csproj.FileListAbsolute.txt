@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\bin\Debug\net7.0\2_IntroArray.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\bin\Debug\net7.0\2_IntroArray.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\bin\Debug\net7.0\2_IntroArray.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\bin\Debug\net7.0\2_IntroArray.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\bin\Debug\net7.0\2_IntroArray.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\refint\2_IntroArray.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\2_IntroArray.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\2_IntroArray\obj\Debug\net7.0\ref\2_IntroArray.dll

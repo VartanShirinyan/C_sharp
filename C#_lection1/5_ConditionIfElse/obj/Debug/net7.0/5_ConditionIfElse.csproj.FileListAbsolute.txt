@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\bin\Debug\net7.0\5_ConditionIfElse.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\bin\Debug\net7.0\5_ConditionIfElse.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\bin\Debug\net7.0\5_ConditionIfElse.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\bin\Debug\net7.0\5_ConditionIfElse.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\bin\Debug\net7.0\5_ConditionIfElse.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\refint\5_ConditionIfElse.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\5_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection1\5_ConditionIfElse\obj\Debug\net7.0\ref\5_ConditionIfElse.dll

@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\bin\Debug\net7.0\Task_35.exe
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\bin\Debug\net7.0\Task_35.deps.json
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\bin\Debug\net7.0\Task_35.runtimeconfig.json
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\bin\Debug\net7.0\Task_35.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\bin\Debug\net7.0\Task_35.pdb
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\refint\Task_35.dll
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.pdb
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\Task_35.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\OneDrive\GeekBrains\C_sharp\C_sharp\C#_Seminar5\Task_35\obj\Debug\net7.0\ref\Task_35.dll

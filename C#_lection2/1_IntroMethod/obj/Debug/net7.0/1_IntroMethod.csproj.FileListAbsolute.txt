@@ -1,0 +1,15 @@
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\bin\Debug\net7.0\1_IntroMethod.exe
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\bin\Debug\net7.0\1_IntroMethod.deps.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\bin\Debug\net7.0\1_IntroMethod.runtimeconfig.json
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\bin\Debug\net7.0\1_IntroMethod.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\bin\Debug\net7.0\1_IntroMethod.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.AssemblyInfo.cs
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\refint\1_IntroMethod.dll
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.pdb
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\1_IntroMethod.genruntimeconfig.cache
+C:\Users\Vartan Shirinyan\GeekBrains\C_sharp\C_sharp\C#_lection2\1_IntroMethod\obj\Debug\net7.0\ref\1_IntroMethod.dll
